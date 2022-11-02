@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cellix/static/css/main.073c9b0a.css",
+    "main.js": "/cellix/static/js/main.dc0fc356.js",
+    "static/js/787.f346870e.chunk.js": "/cellix/static/js/787.f346870e.chunk.js",
+    "static/media/logo.svg": "/cellix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cellix/index.html",
+    "main.073c9b0a.css.map": "/cellix/static/css/main.073c9b0a.css.map",
+    "main.dc0fc356.js.map": "/cellix/static/js/main.dc0fc356.js.map",
+    "787.f346870e.chunk.js.map": "/cellix/static/js/787.f346870e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dc0fc356.js"
+  ]
+}
